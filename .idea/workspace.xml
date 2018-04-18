@@ -1,60 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1bebdf5-179f-4a49-9ed2-ba855c5d08db" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jqueryexercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prezentacja/lukasz_krawczyk_jquery_prezentacja_skrocona.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/100x75/chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/100x75/desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/100x75/hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/100x75/jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/100x75/koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/100x75/lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/100x75/penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/100x75/tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/400x300/chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/400x300/desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/400x300/hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/400x300/jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/400x300/koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/400x300/lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/400x300/penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/400x300/tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/logotypy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/lukasz_krawczyk_jquery_zad01a_rozwiazanie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/lukasz_krawczyk_jquery_zad02a_rozwiazanie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/lukasz_krawczyk_jquery_zad03_rozwiazanie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/lukasz_krawczyk_jquery_zad04a_rozwiazanie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/lukasz_krawczyk_jquery_zad05a_rozwiazanie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania-rozwiazania/lukasz_krawczyk_jquery_zad05b_rozwiazanie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/100x75/chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/100x75/desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/100x75/hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/100x75/jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/100x75/koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/100x75/lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/100x75/penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/100x75/tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/400x300/chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/400x300/desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/400x300/hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/400x300/jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/400x300/koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/400x300/lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/400x300/penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/400x300/tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/logotypy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/lukasz_krawczyk_jquery_zad01a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/lukasz_krawczyk_jquery_zad02a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/lukasz_krawczyk_jquery_zad03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/lukasz_krawczyk_jquery_zad04a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/lukasz_krawczyk_jquery_zad05a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania/lukasz_krawczyk_jquery_zad05b.html" afterDir="false" />
-    </list>
+    <list default="true" id="c1bebdf5-179f-4a49-9ed2-ba855c5d08db" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -70,7 +17,7 @@
       <file leaf-file-name="lukasz_krawczyk_jquery_zad02a.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zadania/lukasz_krawczyk_jquery_zad02a.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
+            <state relative-caret-position="267">
               <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
@@ -159,25 +106,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524042438688</updated>
-      <workItem from="1524042440071" duration="860000" />
+      <workItem from="1524042440071" duration="1108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="860000" />
+    <option name="totallyTimeSpent" value="1108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32948583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33053514" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33053514" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -192,13 +138,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/zadania/lukasz_krawczyk_jquery_zad02a.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
+        <state relative-caret-position="267">
           <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>

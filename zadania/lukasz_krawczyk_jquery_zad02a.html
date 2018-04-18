@@ -38,7 +38,10 @@
 		$("td > img").click(function () {
 
 
-            var source=$(this).attr("src");
+            var source=$(this).attr("src").replace("100x75","400x300");
+
+
+
 
             $("div>img").attr("src",source);
 
