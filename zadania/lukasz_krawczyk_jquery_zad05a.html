@@ -19,7 +19,17 @@
 		// Dana jest strona z pustym węzłem body i regułą CSS dla klasy hello. Napisz skrypt jQuery, który utworzy nowy węzeł div z tekstem "Hello, world!", a następnie doda go do węzła body (tj. dołączy go jako pierwsze lub ostatnie dziecko), wyposaży w klasę CSS hello oraz uzupełni o prostą animację, np. stopniowe pojawienie się.
 		
 		$(function() {
-			
+
+		    $('body').append($('<div></div>').text("Hello World!").addClass('hello').hide().fadeIn(2000));
+
+
+
+
+
+
+
+
+
 		});
 	</script>
 	

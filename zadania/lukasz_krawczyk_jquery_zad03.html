@@ -5,6 +5,33 @@
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="Author" content="Łukasz Krawczyk (Web Developer / Graphic &amp; Web Designer)" />
+
+	<style>
+
+		ul
+		{
+			width: fit-content;
+
+
+		}
+
+
+
+		li ul{
+
+
+			display: none;
+			;
+
+
+
+		}
+
+
+	</style>
+
+
+
 </head>
 <body>
 	
@@ -34,7 +61,16 @@
 
 		$(function() {
 			// a)
-			
+
+			//$("li").children().hide();
+
+			$('li').click(function () {
+
+			    $(this).children().fadeToggle(1000);
+
+
+
+            })
 			
 			// b)
 			
